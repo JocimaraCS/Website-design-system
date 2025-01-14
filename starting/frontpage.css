@@ -1,0 +1,87 @@
+
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Roboto Condensed", serif;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: rgb(225, 225, 234);
+}
+
+
+a{
+    text-decoration: none;
+   
+}
+
+.navbar a:hover{
+    color:rgb(255, 217, 179);
+}
+
+.navbar a:active{
+    color: rgb(242, 242, 242);
+}
+
+.navbar{
+    display:flex;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 40px;
+}
+
+.color-bar img{
+    width: 500px;
+    border-radius: 30px;
+    
+}
+
+.color-bar a{
+    color: rgb(242, 242, 242);
+    font-weight: 800;
+    font-size: xx-large;
+    
+}
+
+.text-color{
+    position: relative;
+    bottom: 190px;
+}
+
+.font-bar{
+    padding-left: 50px;
+}
+
+.font-bar img{
+    width: 500px;
+    height: 280px;
+}
+
+.font-bar a{
+    font-family: "Dosis", serif;
+    font-weight: 800;
+    font-size: xx-large;
+    color: rgb(0, 153, 255);
+}
+
+
+.style-bar img{
+    width: 400px;
+    height: 280px;
+}
+
+.style-bar a{
+    font-style: italic;
+    font-weight: 800;
+    font-size: x-large;
+    color: rgb(21, 21, 30);
+}
+

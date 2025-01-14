@@ -1,0 +1,30 @@
+
+table{
+    border: 1px, solid, black;
+    border-collapse: collapse;
+    width: 800px;
+    line-height: 40px;
+    text-align: center;
+}
+
+td{
+    border: 1px, solid, black;
+}
+
+th{
+    border: 1px, solid, black;
+}
+
+.roboto{
+    font-weight: bold;
+}
+
+.poppins {
+    font-family: "Poppins", serif;
+}
+
+.sans{
+    font-family: "Open Sans", serif;
+    font-style: italic;
+
+}

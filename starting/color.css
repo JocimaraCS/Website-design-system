@@ -1,0 +1,61 @@
+
+.flex-container{
+    display: flex;
+  
+}
+
+
+.flex-container  div{
+    padding: 10px;
+    width:100%;
+}
+    
+
+.orange{
+    background-color: rgb(224, 166, 127);
+    text-align: center;
+    
+}
+
+.light-green{
+    background-color: rgb(240, 245, 241);
+    text-align: center;
+}
+
+.gray{
+    background-color: rgba(92, 92, 91, 0.99);
+    text-align: center;
+}
+.light-gray{
+    background-color: rgb(245, 245, 245);
+    text-align: center;
+}
+
+.blue{
+    background-color: rgba(3, 3, 243, 0.541);
+    text-align: center;
+}
+
+.ash{
+    background-color: rgb(199, 194, 194);
+    text-align: center;
+}
+
+.black{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+span{
+    font-size: small;
+}
+
+.description{
+    margin-top: 60px;
+}
+
+.color{
+    font-weight: bold;
+    font-size: large;
+}
